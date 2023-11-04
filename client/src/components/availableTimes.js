@@ -24,6 +24,7 @@ function AvailableTimesComponent({ selectedDate }) {
 
   return (
     <div>
+      <h2>Dates are available on a 2 week period.</h2>
       <h2>
         Selected Date:{" "}
         {selectedDate.toLocaleDateString("en-US", {

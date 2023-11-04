@@ -9,10 +9,12 @@ function CalendarComponent({ handleDateChange }) {
     <div>
       <h2>Select a Date:</h2>
       <DatePicker
+        maxDate={new Date(new Date().setDate(new Date().getDate() + 14))}
         selected={selectedDate}
         onChange={(date) => {
           setSelectedDate(date);
           handleDateChange(date); // Pass the selected date to the parent component
+          // set max date to 2 weeks from today
         }}
       />
     </div>
