@@ -1,8 +1,12 @@
 import React from "react";
+import logo from "./assets/logo.jpeg";
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <ul class="navigation">
+      <div class="logo">
+        <img src={logo} alt="logo" />
+      </div>
       <li class="navigation-items">
         <a
           href="#home"
