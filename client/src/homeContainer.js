@@ -29,8 +29,8 @@ export default function HomeContainer() {
     <div class="mainElement">
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       <div class="mainContent">
-      <Location />
-      {renderPage()}
+        <Location />
+        {renderPage()}
       </div>
       <Footer />
     </div>
