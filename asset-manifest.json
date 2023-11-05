@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dental/static/css/main.e8cfb06e.css",
-    "main.js": "/Dental/static/js/main.6d13d46f.js",
+    "main.js": "/Dental/static/js/main.fd0fd826.js",
     "static/js/787.c06eb2fc.chunk.js": "/Dental/static/js/787.c06eb2fc.chunk.js",
     "static/media/insta.png": "/Dental/static/media/insta.db2612bd586501d9ed3e.png",
     "static/media/flouride.png": "/Dental/static/media/flouride.4d8a84bcbc120d69ac9e.png",
@@ -15,11 +15,11 @@
     "static/media/guard.jpg": "/Dental/static/media/guard.d53748bc5b3529b3ca32.jpg",
     "index.html": "/Dental/index.html",
     "main.e8cfb06e.css.map": "/Dental/static/css/main.e8cfb06e.css.map",
-    "main.6d13d46f.js.map": "/Dental/static/js/main.6d13d46f.js.map",
+    "main.fd0fd826.js.map": "/Dental/static/js/main.fd0fd826.js.map",
     "787.c06eb2fc.chunk.js.map": "/Dental/static/js/787.c06eb2fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8cfb06e.css",
-    "static/js/main.6d13d46f.js"
+    "static/js/main.fd0fd826.js"
   ]
 }
