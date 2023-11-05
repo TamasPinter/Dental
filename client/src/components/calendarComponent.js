@@ -7,7 +7,7 @@ function CalendarComponent({ handleDateChange }) {
   const [selectedDate, setSelectedDate] = useState(new Date());
   return (
     <div>
-      <h2>Select a Date to see open timeslots</h2>
+      <h2>Select a date to view available time slots</h2>
       <DatePicker
         maxDate={new Date(new Date().setDate(new Date().getDate() + 14))}
         selected={selectedDate}

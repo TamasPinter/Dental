@@ -9,16 +9,16 @@ import procSix from "../assets/guard.jpg";
 function Procedures() {
   return (
     <div class="proceduresContainer">
-      <h1>Here is a list of our procedures at a glance</h1>
+      <h1>Procedures at a Glance</h1>
       <div class="proceduresListTwo">
         <div class="procs">
-          <h3>Oral Hygenie Assessment</h3>
+          <h3>Oral Hygiene Assessment</h3>
 
           <div class="procDesc">
             <img src={procOne} alt="oral hygenie assessment" />
             <p>
-              An oral health assessment, oral cancer exam, cavity risk
-              assessment, dietary assessment.
+              An oral health assessment, oral cancer screening, caries risk
+              assessment, and dietary analysis.
             </p>
           </div>
           <div class="cost">
@@ -46,17 +46,20 @@ function Procedures() {
           </div>
         </div>
         <div class="procs">
-          <h3>Flouride</h3>
+          <h3>Fluoride</h3>
           <div class="procDesc">
-            <img src={procFour} alt="flouride treatement" />
-            <p>Topical application to strenghten and lower teeth decay.</p>
+            <img src={procFour} alt="fluoride treatement" />
+            <p>
+              Topical application to strenghten enamel, reduce caries risk and
+              alleviate sensitivity.
+            </p>
           </div>
           <div class="cost">
             <p> Estimated Cost: $29</p>
           </div>
         </div>
         <div class="procs">
-          <h3>Teeth Whitening</h3>
+          <h3>Tooth Whitening</h3>
           <div class="procDesc">
             <img src={procFive} alt="teeth whitening" />
             <p>

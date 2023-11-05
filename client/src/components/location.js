@@ -19,7 +19,7 @@ function Location() {
       <div class="contact">
         <h3>Our clinic is located at:</h3>
         <p>
-          9060 Louis St. Laurant Ave,
+          9060 Louis St. Laurent Ave,
           <br />
           Milton, ON, L9T 0K8
         </p>

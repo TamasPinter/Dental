@@ -11,7 +11,7 @@ function Appointment() {
 
   return (
     <div class="appointmentContainer">
-      <h1>Pearly Whites Dental Hygenie Available Appointments</h1>
+      <h1>Pearly Whites Dental Hygiene Available Appointments</h1>
       <CalendarComponent
         selectedDate={selectedDate}
         handleDateChange={handleDateChange}

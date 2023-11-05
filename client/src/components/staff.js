@@ -9,7 +9,7 @@ function Staff() {
           <img src={profilePic} alt="profilePic" />
         </div>
         <div class="staffBioOne">
-          <h2>Dannielle Beaton, RDH</h2>
+          <h2>Danielle Beaton, RDH</h2>
           <h3>Graduated: 2024</h3>
           <p>
             Attended George Brown College for Dental Hygiene. Graduated with
@@ -22,7 +22,7 @@ function Staff() {
           <img src={profilePic} alt="profilePic" />
         </div>
         <div class="staffBioOne">
-          <h2>Evangeline Kapsalis RDH</h2>
+          <h2>Evangeline Kapsalis, RDH</h2>
           <h3>Graduated: 2024</h3>
           <p>
             Attended George Brown College for Dental Hygiene. Graduated with
