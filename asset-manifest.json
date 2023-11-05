@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dental/static/css/main.e8cfb06e.css",
+    "main.js": "/Dental/static/js/main.afb0ea19.js",
+    "static/js/787.c06eb2fc.chunk.js": "/Dental/static/js/787.c06eb2fc.chunk.js",
+    "static/media/insta.png": "/Dental/static/media/insta.db2612bd586501d9ed3e.png",
+    "static/media/flouride.png": "/Dental/static/media/flouride.4d8a84bcbc120d69ac9e.png",
+    "static/media/mouth.jpg": "/Dental/static/media/mouth.a7b229b2795977ce7830.jpg",
+    "static/media/profilePic.jpg": "/Dental/static/media/profilePic.f8718206667bdea2385b.jpg",
+    "static/media/whitening.jpg": "/Dental/static/media/whitening.e025a4db824ab5b2a58b.jpg",
+    "static/media/dentalTwo.webp": "/Dental/static/media/dentalTwo.b7c53084956202abc674.webp",
+    "static/media/logo.jpeg": "/Dental/static/media/logo.fc48af06fba24ef87fd5.jpeg",
+    "static/media/dentalOne.webp": "/Dental/static/media/dentalOne.cb3cc9d558dd145e9978.webp",
+    "static/media/debridement.jpg": "/Dental/static/media/debridement.1fe090699bd4bb1c30ac.jpg",
+    "static/media/guard.jpg": "/Dental/static/media/guard.d53748bc5b3529b3ca32.jpg",
+    "index.html": "/Dental/index.html",
+    "main.e8cfb06e.css.map": "/Dental/static/css/main.e8cfb06e.css.map",
+    "main.afb0ea19.js.map": "/Dental/static/js/main.afb0ea19.js.map",
+    "787.c06eb2fc.chunk.js.map": "/Dental/static/js/787.c06eb2fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8cfb06e.css",
+    "static/js/main.afb0ea19.js"
+  ]
+}
