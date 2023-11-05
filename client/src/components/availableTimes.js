@@ -33,12 +33,18 @@ function AvailableTimesComponent({ selectedDate }) {
           day: "2-digit",
         })}
       </h2>
-      <h2>Available Times</h2>
-      <ul>
-        {availableTimes.map((time, index) => (
-          <li key={index}>{time}</li>
-        ))}
-      </ul>
+      <h2>Available Times:</h2>
+      <div class="timesList">
+        <ul>
+          {availableTimes.map((time, index) => (
+            <li key={index}>{time}</li>
+          ))}
+        </ul>
+      </div>
+      <h2>
+        If there is a timeslot that works for you, please call our office to
+        book your spot.
+      </h2>
     </div>
   );
 }

@@ -10,8 +10,8 @@ function Appointment() {
   };
 
   return (
-    <div>
-      <h1>Dental Hygiene Clinic</h1>
+    <div class="appointmentContainer">
+      <h1>Pearly Whites Dental Hygenie Available Appointments</h1>
       <CalendarComponent
         selectedDate={selectedDate}
         handleDateChange={handleDateChange}

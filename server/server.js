@@ -26,9 +26,7 @@ const availableTimes = {
   ],
   "Mon Nov 06 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
     "9:00 AM",
-    "10:00 AM",
     "11:00 AM",
-    "1:00 PM",
     "2:00 PM",
     "4:00 PM",
   ],
@@ -36,9 +34,7 @@ const availableTimes = {
     "9:00 AM",
     "10:00 AM",
     "11:00 AM",
-    "1:00 PM",
     "3:00 PM",
-    "4:00 PM",
   ],
   "Wed Nov 08 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
     "9:00 AM",
@@ -49,7 +45,6 @@ const availableTimes = {
     "4:00 PM",
   ],
   "Thu Nov 09 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
-    "9:00 AM",
     "10:00 AM",
     "11:00 AM",
     "1:00 PM",
@@ -58,8 +53,6 @@ const availableTimes = {
   ],
   "Fri Nov 10 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
     "9:00 AM",
-    "10:00 AM",
-    "11:00 AM",
     "1:00 PM",
     "2:00 PM",
     "4:00 PM",
@@ -67,7 +60,6 @@ const availableTimes = {
   "Sat Nov 11 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
     "9:00 AM",
     "10:00 AM",
-    "11:00 AM",
     "1:00 PM",
     "3:00 PM",
     "4:00 PM",
@@ -76,7 +68,6 @@ const availableTimes = {
     "Our office is closed today",
   ],
   "Mon Nov 13 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
-    "9:00 AM",
     "10:00 AM",
     "11:00 AM",
     "1:00 PM",

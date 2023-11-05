@@ -120,3 +120,24 @@ footer {
   margin-left: 5px;
   margin-right: 5px;
 }
+
+.appointmentContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 98%;
+  height: auto;
+  border: 2px solid black;
+  padding: 5px;
+  background-color: var(--Gray);
+}
+
+.appointmentContainer li {
+  list-style: none;
+  border: 2px inset black;
+  width: 200px;
+  text-align: center;
+  margin-bottom: 5px;
+  background-color: rgb(228, 228, 228);
+}
