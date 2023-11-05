@@ -117,6 +117,14 @@ const availableTimes = {
   "Sun Nov 19 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
     "Our office is closed today",
   ],
+  "Mon Nov 20 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
+    "9:00 AM",
+    "11:00 AM",
+    "1:00 PM",
+    "2:00 PM",
+    "3:00 PM",
+    "4:00 PM",
+  ],
 };
 
 app.get("/api/appointments", (req, res) => {
