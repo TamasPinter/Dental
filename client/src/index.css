@@ -141,3 +141,35 @@ footer {
   margin-bottom: 5px;
   background-color: rgb(228, 228, 228);
 }
+
+.proceduresContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 98%;
+  height: auto;
+  border: 2px solid black;
+  padding: 5px;
+  background-color: var(--Gray);
+}
+
+.proceduresContainer h1 {
+  text-align: center;
+}
+
+.proceduresListTwo {
+}
+
+.procs {
+  display: inline-block;
+  border: 2px solid black;
+  width: 500px;
+  height: 500px;
+  margin: 1px;
+}
+
+.procs img {
+  width: 200px;
+  height: 200px;
+}
