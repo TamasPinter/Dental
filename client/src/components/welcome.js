@@ -33,8 +33,15 @@ function Welcome() {
         </div>
         <div class="welcomeTextTwo">
           <p>
-            We hope to see your radiant smile soon, and let's all put our best
-            smiles first!
+            Please feel free to browse our website for more information on our
+            wonderful staff! We hope you can see all our staff are not only
+            highly trained and experienced, but we are all always looking to
+            give you the best possible experience! Our page also shows a brief
+            glance at what services we offer and their estimated cost. Also as a
+            bonus helpful page please see our Appointments page to see what
+            available times we have in the next 2 weeks. At your convenience,
+            find a time that works best for you and call our offices to reserve!
+            Hope to see you soon!!
           </p>
         </div>
       </div>

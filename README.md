@@ -9,3 +9,8 @@ dentalOne:
 https://www.broadwaycosmeticdentist.com/shiny-happy-teeth-what-to-expect-during-the-professional-teeth-cleaning-process
 dentalTwo:
 https://i0.wp.com/www.queensmedicalcenter.ae/wp-content/uploads/2021/06/pediatric-dentistry-scaled.jpg?resize=1536%2C1024&ssl=1
+
+insta:
+https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png
+twitter:
+https://www.iconpacks.net/free-icon/twitter-logo-2429.html

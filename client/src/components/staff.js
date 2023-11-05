@@ -9,11 +9,37 @@ function Staff() {
           <img src={profilePic} alt="profilePic" />
         </div>
         <div class="staffBioOne">
-          <h2>Dr.Tamas Pinter</h2>
-          <h3>Graduated: 2023</h3>
+          <h2>Dannielle Beaton, RDH</h2>
+          <h3>Graduated: 2024</h3>
           <p>
-            blahs hak hahsk ah akh a akhakhk ahjkaj h ajhah dkjha dkahdjkahjdh
-            akdhjakdj ahk
+            Attended George Brown College for Dental Hygiene. Graduated with
+            Honours and is a member of the CDHO.
+          </p>
+        </div>
+      </div>
+      <div class="staffContent">
+        <div class="staffImage">
+          <img src={profilePic} alt="profilePic" />
+        </div>
+        <div class="staffBioOne">
+          <h2>Evangeline Kapsalis RDH</h2>
+          <h3>Graduated: 2024</h3>
+          <p>
+            Attended George Brown College for Dental Hygiene. Graduated with
+            Honours and is a member of the CDHO.
+          </p>
+        </div>
+      </div>
+      <div class="staffContent">
+        <div class="staffImage">
+          <img src={profilePic} alt="profilePic" />
+        </div>
+        <div class="staffBioOne">
+          <h2>Gaya Thanghavelautham, RDH</h2>
+          <h3>Graduated: 2024</h3>
+          <p>
+            Attended George Brown College for Dental Hygiene. Graduated with
+            Honours and is a member of the CDHO.
           </p>
         </div>
       </div>
@@ -22,10 +48,11 @@ function Staff() {
           <img src={profilePic} alt="profilePic" />
         </div>
         <div class="staffBioTwo">
-          <h2>Dr. Julia Styles</h2>
-          <h3>Graduated: 2023</h3>
+          <h2>Rhea Knight, RDH</h2>
+          <h3>Graduated: 2024</h3>
           <p>
-            uadbasbdisab dsabdibsai dbisabd isbadijsa b dij sbak djbksajdb sadb
+            Attended George Brown College for Dental Hygiene. Graduated with
+            Honours and is a member of the CDHO.
           </p>
         </div>
       </div>
@@ -34,10 +61,11 @@ function Staff() {
           <img src={profilePic} alt="profilePic" />
         </div>
         <div class="staffBioThree">
-          <h2>Dr. John Doe</h2>
-          <h3>Graduated: 2023</h3>
+          <h2>Danielle McLean, RDH</h2>
+          <h3>Graduated: 2024</h3>
           <p>
-            uadbasbdisab dsabdibsai dbisabd isbadijsa b dij sbak djbksajdb sadb
+            Attended George Brown College for Dental Hygiene. Graduated with
+            Honours and is a member of the CDHO.
           </p>
         </div>
       </div>
@@ -46,10 +74,11 @@ function Staff() {
           <img src={profilePic} alt="profilePic" />
         </div>
         <div class="staffBioFour">
-          <h2>Dr. Jane Doe</h2>
-          <h3>Graduated: 2023</h3>
+          <h2>Samantha Frasca, RDH</h2>
+          <h3>Graduated: 2024</h3>
           <p>
-            uadbasbdisab dsabdibsai dbisabd isbadijsa b dij sbak djbksajdb sadb
+            Attended George Brown College for Dental Hygiene. Graduated with
+            Honours and is a member of the CDHO.
           </p>
         </div>
       </div>

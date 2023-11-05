@@ -5,9 +5,7 @@
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -61,6 +59,12 @@ footer {
   text-align: center;
 }
 
+.locationBar img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
 .welcomeContainer {
   display: flex;
   margin-left: 20px;
@@ -90,6 +94,15 @@ footer {
   display: block;
 }
 
+.welcomeTextOne p {
+  font-size: 20px;
+  text-indent: 50px;
+}
+
+.welcomeTextTwo {
+  font-size: 20px;
+  text-indent: 50px;
+}
 .staffContainer {
   display: flex;
   flex-direction: column;
@@ -133,6 +146,14 @@ footer {
   background-color: var(--Gray);
 }
 
+.appointmentContainer h1 {
+  text-align: center;
+}
+
+.bookInfo {
+  text-align: center;
+}
+
 .appointmentContainer li {
   list-style: none;
   border: 2px inset black;
@@ -173,14 +194,12 @@ footer {
   float: left;
   margin-right: 0;
 }
-.proceduresListTwo {
-}
 
 .procs {
   display: inline-block;
-  border: 2px solid black;
+  border: 2px solid rgb(90, 90, 90);
   width: 500px;
-  height: 500px;
+  height: 300px;
   margin: 1px;
 }
 

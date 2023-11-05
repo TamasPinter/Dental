@@ -24,15 +24,15 @@ function AvailableTimesComponent({ selectedDate }) {
 
   return (
     <div>
-      <h2>Dates are available on a 2 week period.</h2>
-      <h2>
+      <h3>Dates are available on a 2 week period.</h3>
+      <h3>
         Selected Date:{" "}
         {selectedDate.toLocaleDateString("en-US", {
           year: "numeric",
           month: "2-digit",
           day: "2-digit",
         })}
-      </h2>
+      </h3>
       <h2>Available Times:</h2>
       <div class="timesList">
         <ul>
@@ -41,10 +41,10 @@ function AvailableTimesComponent({ selectedDate }) {
           ))}
         </ul>
       </div>
-      <h2>
+      <h3 class="bookInfo">
         If there is a timeslot that works for you, please call our office to
         book your spot.
-      </h2>
+      </h3>
     </div>
   );
 }

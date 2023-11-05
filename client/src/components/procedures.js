@@ -5,10 +5,9 @@ function Procedures() {
   return (
     <div class="proceduresContainer">
       <h1>Here is a list of our procedures at a glance</h1>
-
-      <div class="procedureListTwo">
+      <div class="proceduresListTwo">
         <div class="procs">
-          <h3>Teeth WHitening</h3>
+          <h3>Teeth Whitening</h3>
           <img src={procOne} alt="teeth whitening" />
           <p>a little about the procedure</p>
         </div>

@@ -1,4 +1,6 @@
 import React from "react";
+import InstaIcon from "../assets/insta.png";
+import TwitterIcon from "../assets/twitter.png";
 
 function Location() {
   return (
@@ -15,9 +17,22 @@ function Location() {
         ></iframe>
       </div>
       <div class="contact">
-        <p>Our clinic is located at:</p>
-        <p>You can contact us by phone @</p>
-        <p>You can also find us on social media at:</p>
+        <h3>Our clinic is located at:</h3>
+        <p>
+          9060 Louis St. Laurant Ave,
+          <br />
+          Milton, ON, L9T 0K8
+        </p>
+        <h3>You can contact us by phone : </h3>
+        <p>416-555-5555</p>
+
+        <h3>You can also find us on social media at:</h3>
+        <a href="https://www.instagram.com/">
+          <img src={InstaIcon} alt="instagram icon" />
+        </a>
+        <a href="https://twitter.com/">
+          <img src={TwitterIcon} alt="twitter icon" />
+        </a>
       </div>
     </div>
   );
