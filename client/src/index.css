@@ -158,6 +158,21 @@ footer {
   text-align: center;
 }
 
+.proceduresContainer li {
+  list-style: none;
+  text-align: center;
+  margin-left: 0;
+}
+.proceduresContainer p {
+  text-align: center;
+}
+
+.proceduresContainer img {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 0;
+}
 .proceduresListTwo {
 }
 
