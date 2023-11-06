@@ -5,7 +5,9 @@ function AvailableTimesComponent({ selectedDate }) {
 
   useEffect(() => {
     console.log(`Fetching available times for date: ${selectedDate}`);
-    fetch(`http://localhost:3001/api/appointments?date=${selectedDate}`)
+    fetch(
+      `https://dentalserver-4a5e368c1324.herokuapp.com/api/appointments?date=${selectedDate}`
+    )
       .then((res) => {
         if (!res.ok) {
           throw new Error("Network response was not ok");
