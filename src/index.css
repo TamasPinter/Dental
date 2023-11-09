@@ -235,3 +235,101 @@ footer {
   flex-direction: column;
   text-align: center;
 }
+
+/* For screens smaller than 768px (mobile devices) */
+@media (max-width: 768px) {
+  .navigation {
+    width: 100%; /* Make navigation full-width on smaller screens */
+  }
+
+  .navigation img {
+    width: 40px; /* Adjust the width of navigation images for smaller screens */
+    height: 40px;
+  }
+
+  .mainContent {
+    flex-direction: column; /* Stack content vertically on smaller screens */
+  }
+
+  .welcomeContainer {
+    margin: 10px; /* Reduce margins to save space */
+  }
+
+  .welcomeContainer img {
+    width: 100%; /* Make images responsive to fill container width */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  .staffContainer {
+    margin: 10px; /* Reduce margins to save space */
+  }
+
+  .staffContent {
+    flex-direction: column; /* Stack staff content vertically on smaller screens */
+  }
+
+  .staffContentOne img {
+    width: 100%; /* Make images responsive to fill container width */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  .staffImage img {
+    width: 100%; /* Make images responsive to fill container width */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  .appointmentContainer {
+    margin: 10px; /* Reduce margins to save space */
+  }
+
+  .appointmentContainer li {
+    width: 100%; /* Make appointment list items responsive to fill container width */
+  }
+
+  .proceduresContainer {
+    margin: 10px; /* Reduce margins to save space */
+  }
+
+  .procs {
+    width: 100%; /* Make procedure containers responsive to fill container width */
+  }
+}
+
+/* For screens smaller than 1024px (commonly used for tablets) */
+@media (max-width: 1024px) {
+  .navigation {
+    width: 80%; /* Adjust the width of navigation for tablets */
+  }
+
+  .navigation img {
+    width: 50px; /* Adjust the width of navigation images for tablets */
+    height: 50px;
+  }
+
+  .mainContainer {
+    /* Adjust container width or other properties as needed */
+    width: 80%; /* Example: reduce container width to 80% for tablets */
+  }
+
+  .welcomeContainer {
+    /* Adjust margins and other properties as needed */
+    margin: 20px;
+  }
+
+  .staffContainer {
+    /* Adjust margins and other properties as needed */
+    margin: 20px;
+  }
+
+  .appointmentContainer {
+    /* Adjust margins and other properties as needed */
+    margin: 20px;
+  }
+
+  .proceduresContainer {
+    /* Adjust margins and other properties as needed */
+    margin: 20px;
+  }
+
+  /* Add more styles for other containers as needed */
+}

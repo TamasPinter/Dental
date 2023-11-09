@@ -25,6 +25,10 @@ function Location() {
         </p>
         <h3>You can contact us by phone : </h3>
         <p>416-555-5555</p>
+        <p>Monday - Tuesday: 9AM - 8PM</p>
+        <p>Wednesday - Friday: 8AM - 5PM</p>
+        <p>First Saturday of every month: 10AM - 3PM</p>
+        <p>Sundays: Closed</p>
 
         <h3>You can also find us on social media at:</h3>
         <a href="https://www.instagram.com/">
